@@ -15,4 +15,4 @@ super cool projects yet but I'll get there eventually.
 - C, Java, Git
 
 ### Reach out to me:
-- Email: bobboyriver3@gmail.com
+- Email: bobboyriver3[■]gmail.com
